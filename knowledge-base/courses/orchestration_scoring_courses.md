@@ -80,7 +80,9 @@ This document serves as an index and repository for notes, templates, and key ta
 - START HERE
 - Live Call Replays
 
-- **Resources/Templates:** (TODO: Explore each module, extract key templates/resources, add links/summaries)
+- **Resources/Templates:**
+  - Musio presets (`Musio Template Extensionv2`) located at: `/Volumes/T7_Media_Vault/Course_Materials/Cinematic_Composing/Musio Template Extensionv2/`
+  - (TODO: Explore each module, extract other key templates/resources, add links/summaries)
 - **Notes:** (TODO: Add personal notes or key takeaways per module)
 
 ---
