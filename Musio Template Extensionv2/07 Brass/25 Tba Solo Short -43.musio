@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MusioFile FileVersion="0.0.1">
+  <InstrumentEngineRack>
+    <Instrument instrumentId="38e668bd9ce346049d086be3604e6aeb" releaseId="49ba0c08ab601481dd9b6f827a9329a5"
+                MasterVolGain="0.5011872053146362" MidiChannel="1" Muted="0"
+                Output="0" PitchBendDownSemiTones="2" PitchBendUpSemiTones="2"
+                SoloMuted="0" Solod="0" slotOrder="0">
+      <PerformableData id="expression" value="1" inputCc="11"/>
+      <PerformableData id="reverb_dry" value="1" inputCc="-1"/>
+      <PerformableData id="filter_cutoff" value="1" inputCc="1"/>
+      <PerformableData id="reverb_wet" value="0.35" inputCc="91"/>
+      <PerformableData id="reverb_damping" value="0.5" inputCc="-1"/>
+      <PerformableData id="reverb_decay" value="0.678333" inputCc="-1"/>
+      <PerformableData id="reverb_bypass" value="1" inputCc="-1"/>
+      <PerformableData id="dxf_perf" value="1" inputCc="1"/>
+      <ArticulationData activeId="art_STU_Vxf3_SH1" keyswitchRangeBaseNoteNum="72">
+        <Articulation id="art_STU_Dxf3_LEG" loadState="0"/>
+        <Articulation id="art_STU_Dxf3_SUS" loadState="0"/>
+        <Articulation id="art_STU_Vxf3_SH3" loadState="0"/>
+        <Articulation id="art_STU_Vxf3_SH2" loadState="1" keyswitchIndex="1"/>
+        <Articulation id="art_STU_Vxf3_SH1" loadState="1" keyswitchIndex="0"/>
+      </ArticulationData>
+    </Instrument>
+  </InstrumentEngineRack>
+</MusioFile>

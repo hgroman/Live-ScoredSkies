@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MusioFile FileVersion="0.0.1">
+  <InstrumentEngineRack>
+    <Instrument instrumentId="32440b6ce34e4753af2f0722ce2a516c" releaseId="d335fba63bb8a43b11913ad513df9be5"
+                MasterVolGain="0.1860000044107437" MidiChannel="1" Muted="0"
+                Output="0" PitchBendDownSemiTones="2" PitchBendUpSemiTones="2"
+                SoloMuted="0" Solod="0" slotOrder="0">
+      <PerformableData id="expression" value="1" inputCc="11"/>
+      <PerformableData id="filter_cutoff" value="1" inputCc="1"/>
+      <PerformableData id="reverb_wet" value="0.55" inputCc="91"/>
+      <PerformableData id="reverb_dry" value="1" inputCc="-1"/>
+      <PerformableData id="reverb_decay" value="0.678333" inputCc="-1"/>
+      <PerformableData id="reverb_bypass" value="1" inputCc="-1"/>
+      <PerformableData id="dxf_perf" value="1" inputCc="1"/>
+      <ArticulationData activeId="art_IB-3Trb-SusMt" keyswitchRangeBaseNoteNum="24">
+        <Articulation id="art_IB-3Trb-Leg" loadState="0"/>
+        <Articulation id="art_IB-3Trb-Sus" loadState="0"/>
+        <Articulation id="art_IB-3Trb-Ten" loadState="0"/>
+        <Articulation id="art_IB-3Trb-Stac" loadState="0"/>
+        <Articulation id="art_IB-3Trb-Stacct" loadState="0"/>
+        <Articulation id="art_IB-3Trb-Sfz" loadState="0"/>
+        <Articulation id="art_IB-3Trb-SusMt" loadState="1" keyswitchIndex="0"/>
+        <Articulation id="art_IB-3Trb-StacMt" loadState="0"/>
+      </ArticulationData>
+    </Instrument>
+  </InstrumentEngineRack>
+</MusioFile>

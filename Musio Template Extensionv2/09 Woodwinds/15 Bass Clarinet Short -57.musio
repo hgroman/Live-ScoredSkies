@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MusioFile FileVersion="0.0.1">
+  <InstrumentEngineRack>
+    <Instrument instrumentId="6153f8ffbf854698b458267f2f18d263" releaseId="2493f445130e7e809325da2173c47954"
+                MasterVolGain="0.5011872053146362" MidiChannel="1" Muted="0"
+                Output="0" PitchBendDownSemiTones="2" PitchBendUpSemiTones="2"
+                SoloMuted="0" Solod="0" slotOrder="0">
+      <PerformableData id="expression" value="0.937008" inputCc="11"/>
+      <PerformableData id="reverb_dry" value="1" inputCc="-1"/>
+      <PerformableData id="filter_cutoff" value="0.488189" inputCc="1"/>
+      <PerformableData id="reverb_wet" value="0.35" inputCc="91"/>
+      <PerformableData id="reverb_damping" value="0.5" inputCc="-1"/>
+      <PerformableData id="reverb_decay" value="0.678333" inputCc="-1"/>
+      <PerformableData id="reverb_bypass" value="1" inputCc="-1"/>
+      <PerformableData id="dxf_perf" value="0.488189" inputCc="1"/>
+      <ArticulationData activeId="art_CWPro_BC_SH1" keyswitchRangeBaseNoteNum="84">
+        <Articulation id="art_CWPro_BC_Leg" loadState="0"/>
+        <Articulation id="art_CWPro_BC_Dxf2_Sus" loadState="0"/>
+        <Articulation id="art_CWPro_BC_Dxf2_SusVib" loadState="0"/>
+        <Articulation id="art_CWPro_BC_SH3" loadState="0"/>
+        <Articulation id="art_CWPro_BC_SH2" loadState="1" keyswitchIndex="1"/>
+        <Articulation id="art_CWPro_BC_SH1" loadState="1" keyswitchIndex="0"/>
+        <Articulation id="art_CWPro_BC_HSTr" loadState="0"/>
+        <Articulation id="art_CWPro_BC_Dxf1_WSTr" loadState="0"/>
+      </ArticulationData>
+    </Instrument>
+  </InstrumentEngineRack>
+</MusioFile>

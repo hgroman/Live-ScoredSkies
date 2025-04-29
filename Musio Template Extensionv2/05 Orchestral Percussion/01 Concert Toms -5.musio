@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MusioFile FileVersion="0.0.1">
+  <InstrumentEngineRack>
+    <Instrument instrumentId="937d31c6f9d74286a96cffc242ce230f" releaseId="449f7e0515842d0df6c4efecc7b58a43"
+                MasterVolGain="0.6159999966621399" MidiChannel="1" Muted="0"
+                Output="0" PitchBendDownSemiTones="2" PitchBendUpSemiTones="2"
+                SoloMuted="0" Solod="0" slotOrder="0">
+      <PerformableData id="expression" value="0.92126" inputCc="11"/>
+      <PerformableData id="reverb_dry" value="1" inputCc="-1"/>
+      <PerformableData id="reverb_wet" value="0.5" inputCc="91"/>
+      <PerformableData id="reverb_damping" value="0.5" inputCc="-1"/>
+      <PerformableData id="reverb_decay" value="0.583333" inputCc="-1"/>
+      <PerformableData id="reverb_bypass" value="1" inputCc="-1"/>
+      <PerformableData id="envelope_release_curve" value="0.7937" inputCc="-1"/>
+      <PerformableData id="envelope_release" value="0.498998" inputCc="-1"/>
+    </Instrument>
+  </InstrumentEngineRack>
+</MusioFile>
