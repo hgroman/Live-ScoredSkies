@@ -10,8 +10,8 @@
 
 ### Pending from Drive Setup (Ref WO-1)
 
-1.  **[ ] Migrate Remaining Media/Projects (WO-1 Task #4):**
-    *   Review content on the old 'Crucial X8' drive.
+1.  **[x] Migrate Remaining Media/Projects (WO-1 Task #4):**
+    *   Review content on the old 'Crucial X8' drive. *(Confirmed empty/non-essential as of 2025-04-29)*
     *   Copy any desired remaining FCP projects, Logic sessions, raw footage, or other relevant files to the appropriate `Media` or `Audio_Projects` folders on the `T7_Media_Vault` drive.
 
 2.  **[ ] Final Verification & Backup Strategy (WO-1 Task #7):**
@@ -19,8 +19,8 @@
     *   Implement a backup solution (e.g., Time Machine pointing to another drive, Backblaze cloud backup) for the `T7_Media_Vault` drive.
         *   **UPDATE (2025-04-29):** Backblaze Personal Backup configured. It includes `T7_Media_Vault` and `Macintosh HD`. Key large folders on `Macintosh HD` (most user data, `/Applications`, `/Library`, etc.) are excluded to prioritize T7 backup, except for `/Users/henrygroman/development` and `/Users/henrygroman/projects`. See `knowledge-base/backup_strategy.md` for full details.
 
-3.  **[ ] Decommission Old Drive (WO-1 Task #8):**
-    *   Once backups are confirmed, securely eject and disconnect the 'Crucial X8' drive.
+3.  **[x] Decommission Old Drive (WO-1 Task #8):**
+    *   Once backups are confirmed, securely eject and disconnect the 'Crucial X8' drive. *(Confirmed empty and disconnected 2025-04-29)*
     *   Consider reformatting or storing it safely.
 
 ### Documentation & Resource Integration
