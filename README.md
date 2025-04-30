@@ -27,14 +27,15 @@ I believe in removing obstacles between inspiration and expression. This workspa
 Through deliberate simplification, creativity flows more naturally. When the technical aspects fade into the background, the artistic vision can take center stage.
 
 ## Current Focus
-*Last updated: 2025-04-29*
+*Last updated: 2025-04-30*
 
-> **Active Work Order:** See [Word-Orders/WO-2-PROJECT-RESUMPTION.MD](Word-Orders/WO-2-PROJECT-RESUMPTION.MD) for current priorities and pending tasks.
+> **Active Work Order:** See [Work-Orders/WO-2-PROJECT-RESUMPTION.MD](Work-Orders/WO-2-PROJECT-RESUMPTION.MD) for current priorities and pending tasks.
 > **Repository:** This project is now tracked on [GitHub](https://github.com/hgroman/sky.git).
+> **Git Workflow:** Use `git add -A && git commit -m "Your message" && git push` to track all changes in one command.
 
 - [x] Set up basic folder structure
 - [x] Create sample library catalog
-- [ ] Finalize external drive setup & backup (WO-2)
+- [x] Finalize external drive setup & backup (WO-2)
 - [ ] Integrate scoring course materials (WO-2)
 - [ ] Document FCP-Logic XML workflow
 - [ ] Create first project for Tahoe drone footage
