@@ -52,7 +52,7 @@ The magic happens when the Light Guide on the S88 maps to orchestral sections wh
 
 ## Key Locations
 
-- **Sample Libraries:** [knowledge-base/sample-libraries/catalog.md](knowledge-base/sample-libraries/catalog.md)
+- **Sample Libraries:** [knowledge-base/sample-libraries/overview.md](knowledge-base/sample-libraries/overview.md)
 - **Hardware Catalog:** [knowledge-base/hardware/catalog.md](knowledge-base/hardware/catalog.md)
 - **Scoring Courses:** [knowledge-base/courses/orchestration_scoring_courses.md](knowledge-base/courses/orchestration_scoring_courses.md)
 - **Project Templates:** [_templates/Project_Structure_README.md](_templates/Project_Structure_README.md)
