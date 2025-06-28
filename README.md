@@ -3,7 +3,6 @@
 *Where visual landscapes meet musical emotion. A creative sanctuary for drone footage and orchestral composition.*
 
 ## Creative Philosophy
-*Last updated: 2025-04-27*
 
 Sky is not mere project management—it's a creative ecosystem where breathtaking aerial vistas and emotional musical compositions merge into cohesive artistic experiences. My philosophy is simple yet profound:
 
@@ -17,67 +16,68 @@ This workspace embodies four core principles:
 
 ## The Power of Purposeful Simplicity
 
-I believe in removing obstacles between inspiration and expression. This workspace is designed with intentional minimalism—keeping only what serves the creative process and eliminating everything that doesn't. This means:
-
-- Clean, focused folder structures that make sense intuitively
-- Documentation that clarifies rather than complicates
-- Templates that reduce repetitive setup tasks
-- Tools that solve real problems without adding complexity
-
-Through deliberate simplification, creativity flows more naturally. When the technical aspects fade into the background, the artistic vision can take center stage.
+I believe in removing obstacles between inspiration and expression. This workspace is designed with intentional minimalism—keeping only what serves the creative process and eliminating everything that doesn't. Through deliberate simplification, creativity flows more naturally. When the technical aspects fade into the background, the artistic vision can take center stage.
 
 ## Current Focus
-*Last updated: 2025-04-30*
-
-> **Active Work Order:** See [Work-Orders/WO-2-PROJECT-RESUMPTION.MD](Work-Orders/WO-2-PROJECT-RESUMPTION.MD) for current priorities and pending tasks.
-> **Repository:** This project is now tracked on [GitHub](https://github.com/hgroman/sky.git).
-> **Git Workflow:** Use `git add -A && git commit -m "Your message" && git push` to track all changes in one command.
 
 - [x] Set up basic folder structure
 - [x] Create sample library catalog
-- [x] Finalize external drive setup & backup (WO-2)
-- [ ] Integrate scoring course materials (WO-2)
+- [x] Finalize external drive setup & backup
 - [ ] Document FCP-Logic XML workflow
-- [ ] Create first project for Tahoe drone footage
+- [ ] Create first project for drone footage
 
 ## Creative Arsenal
 
 This workspace is where I combine my drone footage with original compositions using:
-- DJI Mini 4K drone footage
-- Logic Pro for music composition
-- Komplete Kontrol S88 MK2 keyboard
-- Spitfire, 8Dio and other sample libraries
-- Final Cut Pro for video editing
+- **DJI Mini 4K** drone footage
+- **Logic Pro** for music composition
+- **Komplete Kontrol S88 MK2** keyboard
+- **Spitfire Symphony Orchestra, 8Dio, UVI** sample libraries
+- **Final Cut Pro** for video editing
+- **MV7+ microphone** for narration and field recording
 
 The magic happens when the Light Guide on the S88 maps to orchestral sections while viewing time-code locked footage in Logic. Seeing my fingers on piano keys translate to lush string arrangements supporting drone footage of Lake Tahoe at sunset—that's the essence of this workspace.
 
-## Key Locations
+## Project Structure
 
-- **Sample Libraries:** [knowledge-base/sample-libraries/overview.md](knowledge-base/sample-libraries/overview.md)
-- **Hardware Catalog:** [knowledge-base/hardware/catalog.md](knowledge-base/hardware/catalog.md)
-- **Scoring Courses:** [knowledge-base/courses/orchestration_scoring_courses.md](knowledge-base/courses/orchestration_scoring_courses.md)
-- **Project Templates:** [_templates/Project_Structure_README.md](_templates/Project_Structure_README.md)
-- **Workspace Genesis:** [journal/2025-04-27_Sky_Workspace_Genesis.md](journal/2025-04-27_Sky_Workspace_Genesis.md)
-
-## Workspace Structure
-
+- **Core_Documents/** - Essential vision, workflows, and reference materials
 - **knowledge-base/** - Sample libraries, hardware, techniques, references
-- **projects/** - Individual creative works (footage + compositions)
-- **research/** - Notes and research on composition styles and techniques
-- **journal/** - Progress log and creative musings
 - **_templates/** - Project structure templates
 - **tools/** - Helper scripts and utilities
 - **assets/** - Shared resources for multiple projects
 
-*Get timestamps for documentation with: `date "+%Y-%m-%d %H:%M:%S %Z"`*
+## Key Documents
+
+### Core Reference
+- **Vision & Systems:** [Core_Documents/Vision_and_Systems.md](Core_Documents/Vision_and_Systems.md)
+- **Technical Workflows:** [Core_Documents/Technical_Workflows.md](Core_Documents/Technical_Workflows.md)
+- **Creative Principles:** [Core_Documents/Creative_Principles.md](Core_Documents/Creative_Principles.md)
+- **Sample Library Reference:** [Core_Documents/Sample_Library_Reference.md](Core_Documents/Sample_Library_Reference.md)
+
+### Knowledge Base
+- **Hardware Catalog:** [knowledge-base/hardware/catalog.md](knowledge-base/hardware/catalog.md)
+- **Sample Libraries Overview:** [knowledge-base/sample-libraries/overview.md](knowledge-base/sample-libraries/overview.md)
+- **Inventory Summary:** [knowledge-base/inventory_summary.md](knowledge-base/inventory_summary.md)
+- **Backup Strategy:** [knowledge-base/backup_strategy.md](knowledge-base/backup_strategy.md)
+
+### Creative Assistant
+- **Tom Persona:** [tom_persona.md](tom_persona.md) - Your enhanced creative navigator
+
+## DART Integration
+
+Dynamic project management and documentation through DART:
+
+- **Tasks:** https://app.itsdart.com/d/3bGWqZp7DbkC-Tasks
+- **Work Orders:** https://app.itsdart.com/f/WyxUQ7KF12UY-Work-Orders?sort=-updated_at
+- **Journal:** https://app.itsdart.com/f/wxeJK1WZFg1c-journal?sort=-updated_at
+- **Research:** https://app.itsdart.com/f/0eOXUnrf7b71-research?sort=-updated_at
+- **Projects:** https://app.itsdart.com/f/adVHCGXA5xJI-projects?sort=-updated_at
 
 ## Why This Matters
 
 This workspace isn't just folders and files—it's the soil where I plant and grow compositions that marry visual and musical storytelling. Every project that emerges from here carries the emotional impact of seeing breathtaking landscapes paired with music that elevates and interprets the visual experience.
 
 Each element in this workspace exists with clear purpose. The organization is deliberate, the tools are essential, and the focus is singular: to create meaningful artistic expressions that connect visual beauty with musical emotion without unnecessary complexity getting in the way.
-
-For the full story on the vision behind Sky, see [journal/2025-04-27_Sky_Workspace_Genesis.md](journal/2025-04-27_Sky_Workspace_Genesis.md).
 
 ---
 
