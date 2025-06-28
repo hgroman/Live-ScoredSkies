@@ -1,4 +1,4 @@
-# Sky Project - Technical Workflows
+# Live-Scored Skies Project - Technical Workflows
 
 ## FCP → Logic → FCP Pipeline
 

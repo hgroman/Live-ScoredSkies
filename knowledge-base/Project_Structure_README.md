@@ -1,6 +1,6 @@
-# Project Structure Guide
+# Live-Scored Skies Project Structure Guide
 
-This document outlines the standard folder structure used for projects within the Sky workspace. Consistency helps in locating assets quickly.
+This document outlines the standard folder structure used for projects within the Live-Scored Skies workspace. Consistency helps in locating assets quickly.
 
 ```text
 [PROJECT_NAME]/

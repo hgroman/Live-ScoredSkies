@@ -1,4 +1,4 @@
-# Sky Project - Creative Principles
+# Live-Scored Skies Project - Creative Principles
 
 ## Compositional Guidelines
 

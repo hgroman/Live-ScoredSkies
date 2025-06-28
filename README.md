@@ -1,10 +1,10 @@
-# Sky
+# Live-Scored Skies
 
 *Where visual landscapes meet musical emotion. A creative sanctuary for drone footage and orchestral composition.*
 
 ## Creative Philosophy
 
-Sky is not mere project management—it's a creative ecosystem where breathtaking aerial vistas and emotional musical compositions merge into cohesive artistic experiences. My philosophy is simple yet profound:
+Live-Scored Skies is not mere project management—it's a creative ecosystem where breathtaking aerial vistas and emotional musical compositions merge into cohesive artistic experiences. My philosophy is simple yet profound:
 
 > The emotional resonance between a landscape and its musical interpretation creates something greater than either element alone.
 
@@ -55,10 +55,10 @@ The magic happens when the Light Guide on the S88 maps to orchestral sections wh
 - **Sample Library Reference:** [Core_Documents/Sample_Library_Reference.md](Core_Documents/Sample_Library_Reference.md)
 
 ### Knowledge Base
-- **Hardware Catalog:** [knowledge-base/hardware/catalog.md](knowledge-base/hardware/catalog.md)
-- **Sample Libraries Overview:** [knowledge-base/sample-libraries/overview.md](knowledge-base/sample-libraries/overview.md)
-- **Inventory Summary:** [knowledge-base/inventory_summary.md](knowledge-base/inventory_summary.md)
-- **Backup Strategy:** [knowledge-base/backup_strategy.md](knowledge-base/backup_strategy.md)
+- **Hardware Catalog:** [`_hardware/_hardware-catalog.md`](_hardware/_hardware-catalog.md)
+- **Sample Libraries Overview:** [`_sample-libraries/overview.md`](_sample-libraries/overview.md)
+- **Inventory Summary:** [`knowledge-base/inventory_summary.md`](knowledge-base/inventory_summary.md)
+- **Backup Strategy:** [`knowledge-base/backup_strategy.md`](knowledge-base/backup_strategy.md)
 
 ### Creative Assistant
 - **Tom Persona:** [tom_persona.md](tom_persona.md) - Your enhanced creative navigator
@@ -78,6 +78,15 @@ Dynamic project management and documentation through DART:
 This workspace isn't just folders and files—it's the soil where I plant and grow compositions that marry visual and musical storytelling. Every project that emerges from here carries the emotional impact of seeing breathtaking landscapes paired with music that elevates and interprets the visual experience.
 
 Each element in this workspace exists with clear purpose. The organization is deliberate, the tools are essential, and the focus is singular: to create meaningful artistic expressions that connect visual beauty with musical emotion without unnecessary complexity getting in the way.
+
+## Core Creative Vectors
+
+The project now has 5 core creative vectors:
+- Field to Frame Score Expeditions
+- Drone Psalms - Visual Devotionals
+- Midnight Compositions - One-Night Scores
+- Composer in the Wild - Mini-Documentary Series
+- Echoes of the Journey - Personal Sample Library
 
 ---
 

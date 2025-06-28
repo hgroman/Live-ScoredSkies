@@ -2,7 +2,7 @@
 
 *Last updated: 2025-04-29*
 
-This document outlines the backup strategy for the Sky project, focusing on the `T7_Media_Vault` external drive and essential local project files.
+This document outlines the backup strategy for the Live-Scored Skies project, focusing on the `T7_Media_Vault` external drive and essential local project files.
 
 ## Goal: 3-2-1 Backup
 

@@ -2,7 +2,7 @@
 
 *Last updated: 2025-04-29*
 
-This document serves as an index and repository for notes, templates, and key takeaways from various online courses related to orchestration, film scoring, and music production relevant to the Sky project.
+This document serves as an index and repository for notes, templates, and key takeaways from various online courses related to orchestration, film scoring, and music production relevant to the Live-Scored Skies project.
 
 ---
 
@@ -43,7 +43,7 @@ This document serves as an index and repository for notes, templates, and key ta
 - **Key Themes:** Importance of story, creating unique sound palettes (synths, manipulating real instruments), scoring to picture, character theme development, working with musicians, life/workflow of a composer.
 - **Case Studies Included:** Batman Trilogy, Interstellar, Frost/Nixon.
 - **Target Audience:** Best for those with some musical knowledge seeking creative inspiration, understanding the composition process, or feeling creatively stuck. Highly inspirational watch.
-- **Relevance to Sky Project:** While not specific to drone footage scoring, provides valuable insights into musical storytelling, sound creation, scoring to imagery, and creative strategies.
+- **Relevance to Live-Scored Skies Project:** While not specific to drone footage scoring, provides valuable insights into musical storytelling, sound creation, scoring to imagery, and creative strategies.
 - **Resources/Templates:** Primarily conceptual/philosophical. Workbook contains extra reading/assignments. No specific software templates expected.
 - **Notes:** (TODO: Add personal notes or key takeaways *after* watching).
 

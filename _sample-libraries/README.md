@@ -1,4 +1,4 @@
-# Sample Libraries Documentation
+# Live-Scored Skies Sample Libraries Documentation
 
 This directory contains detailed information about all sample libraries and virtual instruments in my collection, organized by manufacturer. It serves as a comprehensive reference for all my music production resources.
 

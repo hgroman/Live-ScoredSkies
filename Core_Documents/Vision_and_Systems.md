@@ -1,4 +1,4 @@
-# Sky Project - Core Vision & Systems
+# Live-Scored Skies Project - Core Vision & Systems
 
 ## Vision Statement
 Create emotionally resonant cinematic pieces where breathtaking drone footage is paired with custom-composed orchestral music that elevates and interprets the visual experience. Each project should carry the emotional impact of seeing landscapes through both lens and sound.
